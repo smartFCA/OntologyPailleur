@@ -10,14 +10,6 @@
                                                                owl:versionIRI <http://github.com/smartFCA/OntologyPailleur/formal_ontology/0.2> ;
                                                                rdfs:comment "Ontology implementing basic elements of Formal Concept Analysis: Objects (i.e. a NamedInstance) and multiple description classes: Attributes, MinimalGenerators, and Intents" .
 
-#################################################################
-#    Data properties
-#################################################################
-
-###  http://idmc.univ-lorraine.fr/formal_ontology#attribute
-<http://idmc.univ-lorraine.fr/formal_ontology#attribute> rdf:type owl:DatatypeProperty ;
-                                                         rdfs:range xsd:boolean .
-
 
 #################################################################
 #    Classes
