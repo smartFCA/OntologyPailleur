@@ -19,7 +19,7 @@ classifiers = [
 ]
 keywords = ["python", "fca", "ontology"]
 dependencies = [
-    'caspailleur>=0.2.1', 'bitarray>=3', 'paspailleur', 'rdflib'
+    'caspailleur>=0.2.1', 'bitarray>=3', 'paspailleur', 'rdflib', 'tqdm'
 ]
 requires-python = ">=3.9"
 
